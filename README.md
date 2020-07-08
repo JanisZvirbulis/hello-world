@@ -1,2 +1,5 @@
 # hello-world
-new repo
+
+
+parbaudam kas notiek ar 'so jauno branch
+mazi editi
